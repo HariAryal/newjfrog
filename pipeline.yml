@@ -3,10 +3,10 @@ resources:
     type: GitRepo
     configuration:
       gitProvider: newtest
-      path: alinagoal/jfrog-test
+      path: HariAryal/newjfrog
       branches:
         include: main
-
+        
 pipelines:
   - name: pipeline_dbp
     steps:
