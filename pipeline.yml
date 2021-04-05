@@ -2,7 +2,7 @@ resources:
   - name: myFirstRepo
     type: GitRepo
     configuration:
-      gitProvider: newtest
+      gitProvider: Newtest
       path: HariAryal/newjfrog
       branches:
         include: main
